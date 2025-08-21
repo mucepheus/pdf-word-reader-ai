@@ -1,0 +1,7 @@
+pdfplumber
+python-docx
+pytesseract
+Pillow
+openpyxl
+scikit-learn
+flask
